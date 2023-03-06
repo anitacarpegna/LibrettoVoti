@@ -1,5 +1,5 @@
 package it.polito.tdp.libretto.model;
 
-public class Libretto {
+public class Libretto {//commento
 
 }
